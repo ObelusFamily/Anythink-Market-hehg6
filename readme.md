@@ -11,3 +11,5 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+Make sure that xcode is installed and up to date, otherwise docker-compose up won't run. In order to set the repository up, enter "git clone <HTTPS URL>", and change directory with "cd Anything-Market-hegh6/". After this, enter "compose-docker up"
